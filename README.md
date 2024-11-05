@@ -29,7 +29,7 @@ Run 'hexgl_installer.run' in the terminal.
 
 I have added makeself build ability.
 Cut the files in the root of the repo besides for the installer into /hexgl-makeself/hexgl_files
-Then use makeself.sh with this command:
+Then fork makeself and use makeself.sh with this command:
 	'makeself.sh hexgl-makeself hexgl_installer.run' "HexGL Installer" ./installer.sh
 Then it should work.
 
